@@ -22,9 +22,5 @@ This repository contains a Verilog-based implementation of the **Advanced Periph
 ## Simulation & Testing
 To simulate the design, use a Verilog simulator such as **ModelSim, VCS, or Icarus Verilog**.
 
-### Steps to Run Simulation
-1. **Clone the repository:**
-   ```bash
-   git clone https://github.com/Nilesh002/AMBA-APB-Protocol-Design.git
-   cd apb_project
+
 
