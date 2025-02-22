@@ -8,6 +8,9 @@ This repository contains a Verilog-based implementation of the **Advanced Periph
 - Uses **handshaking signals** (`psel`, `penable`, `pready`) to ensure correct data transactions.
 - **Clock generation logic** included for simulation and testing.
 
+## Overview
+![APB Protocol Simulation](/![APB_Sim](https://github.com/user-attachments/assets/7401527e-1cc9-411b-840c-576f8f1a7c77))
+
 ## Project Structure
 ## APB Master FSM States
 - **IDLE**: Waits for the start signal.
