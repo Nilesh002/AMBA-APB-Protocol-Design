@@ -9,7 +9,7 @@ This repository contains a Verilog-based implementation of the **Advanced Periph
 - **Clock generation logic** included for simulation and testing.
 
 ## Overview
-![APB Protocol Simulation](/![APB_Sim](https://github.com/user-attachments/assets/7401527e-1cc9-411b-840c-576f8f1a7c77))
+![APB Protocol Simulation](https://github.com/user-attachments/assets/7401527e-1cc9-411b-840c-576f8f1a7c77)
 
 ## Project Structure
 ## APB Master FSM States
