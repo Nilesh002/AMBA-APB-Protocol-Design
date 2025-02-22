@@ -20,7 +20,7 @@ This repository contains a Verilog-based implementation of the **Advanced Periph
 - **WRITE**: Writes received data to memory.
 
 ## Simulation & Testing
-To simulate the design, use a Verilog simulator such as **ModelSim, VCS, or Icarus Verilog**.
+To simulate the design, use a Verilog simulator such as **ModelSim or Icarus Verilog**.
 
 
 
