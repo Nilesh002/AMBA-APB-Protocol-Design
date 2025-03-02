@@ -11,7 +11,10 @@ This repository contains a Verilog-based implementation of the **Advanced Periph
 ## Overview
 ![APB Protocol Simulation](https://github.com/user-attachments/assets/7401527e-1cc9-411b-840c-576f8f1a7c77)
 
-## Project Structure
+## Schematic 
+![Synthesized Design](https://github.com/user-attachments/assets/38daacb3-759a-4f55-8d14-6e1e484efb94)
+
+
 ## APB Master FSM States
 - **IDLE**: Waits for the start signal.
 - **SETUP**: Latches address and control signals.
